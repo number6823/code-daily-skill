@@ -1,0 +1,15 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "code-daily-skill",
+  "description": "code-daily 스킬 배포용 마켓플레이스",
+  "owner": { "name": "number6823" },
+  "plugins": [
+    {
+      "name": "code-daily",
+      "description": "Python 코드 규칙 정리(code) + 노션·블로그 학습 기록(post) + 비개발자용 분석 글(easy)",
+      "version": "1.0.0",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "code-daily",
+  "description": "Python 코드를 타입 힌트·헤더·섹션 규칙으로 정리하고(code), 노션·Velog·GitHub 블로그용 학습 기록(post)과 비개발자용 분석 글(easy)로 만들어 주는 스킬",
+  "version": "1.0.0",
+  "author": { "name": "number6823" },
+  "keywords": ["python", "type-hints", "blog", "notion", "velog", "til", "korean"]
+}
